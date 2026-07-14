@@ -1,0 +1,15 @@
+zig-cache/
+.zig-cache/
+.zig-cache*/
+.zig-global-cache*/
+zig-out/
+zig-pkg/
+build/
+build-*/
+docgen_tmp/
+.zbscanhelper.zig
+docs/superpowers/
+.remember
+docs
+.idea
+.INDEX.md
