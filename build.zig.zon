@@ -1,0 +1,17 @@
+.{
+    .name = .container_zig,
+    .version = "1.0.0",
+    .fingerprint = 0x327479592752dd29,
+    .minimum_zig_version = "0.15.2",
+    .dependencies = .{},
+    .paths = .{
+        "LICENSE",
+        "README.md",
+        "README-zh.md",
+        "assets",
+        "build.zig",
+        "build.zig.zon",
+        "examples",
+        "src",
+    },
+}
